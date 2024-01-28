@@ -1,18 +1,18 @@
 def calculate_net_worth():
     # Sample input values
     user_name = "Sharon Chiru"
-    checking_account_balance = 5000.00
-    savings_account_balance = 10000.00
-    investment_account_value = 15000.00
-    total_utility_bills = 500.00
-    total_credit_card_debt = 8000.00
-    credit_card_balance_due = 6000.00
-    credit_card_min_payment_due = 200.00
-    annual_credit_card_interest_rate = 0.18  # 18%
-    loan_debt = 12000.00
-    loan_payment_due = 1000.00
-    annual_loan_interest_rate = 0.10  # 10%
-    other_asset_value = 20000.00
+    checking_account_balance = 6000.00
+    savings_account_balance = 9000.00
+    investment_account_value = 13000.00
+    total_utility_bills = 300.00
+    total_credit_card_debt = 9000.00
+    credit_card_balance_due = 4000.00
+    credit_card_min_payment_due = 100.00
+    annual_credit_card_interest_rate = 0.20  # 18%
+    loan_debt = 10000.00
+    loan_payment_due = 2000.00
+    annual_loan_interest_rate = 0.9  # 10%
+    other_asset_value = 22000.00
 
     # Calculations
     total_assets = checking_account_balance + savings_account_balance + investment_account_value + other_asset_value
