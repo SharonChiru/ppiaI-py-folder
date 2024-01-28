@@ -8,10 +8,10 @@ def calculate_net_worth():
     total_credit_card_debt = 9000.00
     credit_card_balance_due = 4000.00
     credit_card_min_payment_due = 100.00
-    annual_credit_card_interest_rate = 0.20  # 18%
+    annual_credit_card_interest_rate = 0.20  #20%
     loan_debt = 10000.00
     loan_payment_due = 2000.00
-    annual_loan_interest_rate = 0.9  # 10%
+    annual_loan_interest_rate = 0.9  # 9%
     other_asset_value = 22000.00
 
     # Calculations
